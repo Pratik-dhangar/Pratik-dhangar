@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
+  
+# 👋 Hello, I'm Pratik-Dhangar
 
-<!--
-**Pratik-dhangar/Pratik-dhangar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | AI Enthusiast | Open Source Contributor
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+Tech+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img src="https://komarev.com/ghpvc/?username=Pratik-dhangar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Pratik-dhangar?label=Followers&style=social" alt="GitHub followers" />
+
+</div>
+
+## 🚀 About Me
+
+```typescript
+const Pratik-dhangar = {
+    name: "Pratik Dhangar",
+    role: "Full Stack Developer",
+    currentFocus: ["Web Development", "Backend Developement", "Typescipt"],
+    activeProjects: {
+        main: "Taining And Placement Portal",
+    },
+    openToCollaborate: true,
+    askMeAbout: ["Tech", "AI", "Full Stack Development", "Open Source"],
+    location: "India 🌍"
+};
+```
+
+
