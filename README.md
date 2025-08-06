@@ -56,31 +56,22 @@ const Pratik-dhangar = {
 <div align="center">
 
 ### Frontend Technologies
-[![Frontend Skills](https://skillicons.dev/icons?i=js,ts,html,css,svelte,react,bootstrap,tailwind)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,bootstrap,tailwind)](https://skillicons.dev)
 
 ### Backend & DevOps
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,docker,nginx)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb)](https://skillicons.dev)
 
 ### Programming Languages
-[![Languages](https://skillicons.dev/icons?i=python,java,swift,bash,powershell)](https://skillicons.dev)
-
-### AI & Machine Learning
-[![AI/ML](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
-
-### Game Development
-[![Game Dev](https://skillicons.dev/icons?i=godot,unity,robloxstudio)](https://skillicons.dev)
-
-### Cloud & Deployment
-[![Cloud](https://skillicons.dev/icons?i=vercel,netlify,cloudflare)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,js)](https://skillicons.dev)
 
 ### Development Tools
-[![Tools](https://skillicons.dev/icons?i=vscode,webstorm,idea,pycharm,postman,git,github,gitlab)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,postman,git,github)](https://skillicons.dev)
 
 ### Hardware & Systems
-[![Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu,windows,apple)](https://skillicons.dev)
+[![Hardware](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
 ### Design & Collaboration
-[![Design](https://skillicons.dev/icons?i=figma,notion,discord,md)](https://skillicons.dev)
+[![Design](https://skillicons.dev/icons?i=figma,notion,discord,)](https://skillicons.dev)
 
 </div>
 
