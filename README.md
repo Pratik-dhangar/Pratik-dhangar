@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello, I'm Pratik-Dhangar
+# 👋 Hello, I'm Pratik
 
 ### Full Stack Developer | AI Enthusiast | Open Source Contributor
 
