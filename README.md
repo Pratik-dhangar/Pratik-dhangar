@@ -7,13 +7,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;AI+%26+Tech+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 ---
-  <a href="https://pratik-portfolio-self.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-Click_Here-success?style=for-the-badge" alt="Live Demo">
-  </a>
+
 <img src="https://komarev.com/ghpvc/?username=Pratik-dhangar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Pratik-dhangar?label=Followers&style=social" alt="GitHub followers" />
 
 </div>
+<div align="center">  <a href="https://pratik-portfolio-self.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀My_Portfolio-Click_Here-success?style=for-the-badge" alt="Live Demo">
+  </a> </div>
 
 ## 🚀 About Me
 
