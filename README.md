@@ -16,21 +16,6 @@
     <img src="https://img.shields.io/badge/🚀My_Portfolio-Click_Here-success?style=for-the-badge" alt="Live Demo">
   </a> </div>
 
-## 🚀 About Me
-
-```typescript
-const Pratik-dhangar = {
-    name: "Pratik Dhangar",
-    role: "Full Stack Developer",
-    currentFocus: ["Web Development", "Backend Developement", "Typescipt"],
-    activeProjects: {
-        main: "Taining And Placement Portal",
-    },
-    openToCollaborate: true,
-    askMeAbout: ["Tech", "AI", "Full Stack Development", "Open Source"],
-    location: "India 🌍"
-};
-```
 <div align="center">
 
 ## 🎯 Current Endeavors
