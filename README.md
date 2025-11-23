@@ -44,22 +44,22 @@
 <div align="center">
 
 ### Frontend Technologies
-[![Frontend Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,bootstrap,tailwind)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=python,js,ts,react,html,css,bootstrap,tailwind)](https://skillicons.dev)
 
 ### Backend & DevOps
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=fastapi,nodejs,express,mysql,postgres,mongodb)](https://skillicons.dev)
 
 ### Programming Languages
-[![Languages](https://skillicons.dev/icons?i=c,js)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,js,python)](https://skillicons.dev)
 
 ### Development Tools
-[![Tools](https://skillicons.dev/icons?i=vscode,postman,git,github)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,postman,git,github,bitbucket,aws)](https://skillicons.dev)
 
 ### Hardware & Systems
 [![Hardware](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
 ### Design & Collaboration
-[![Design](https://skillicons.dev/icons?i=figma,notion,discord)](https://skillicons.dev)
+[![Design](https://skillicons.dev/icons?i=jira,figma,notion,discord)](https://skillicons.dev)
 
 </div>
 
