@@ -59,7 +59,7 @@
 [![Hardware](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
 ### Design & Collaboration
-[![Design](https://skillicons.dev/icons?i=jira,figma,notion,discord)](https://skillicons.dev)
+[![Design](https://skillicons.dev/icons?i=atlassian,figma,notion,discord)](https://skillicons.dev)
 
 </div>
 
